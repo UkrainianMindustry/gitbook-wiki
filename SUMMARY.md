@@ -40,3 +40,7 @@
 
 * [Подяки](inshe/podyaki.md)
 * [Як редагувати цю вікі?](inshe/yak-redaguvati-cyu-viki.md)
+
+***
+
+* [Тестування можливостей GitBook](testuvannya-mozhlivostei-gitbook.md)
