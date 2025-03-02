@@ -1,0 +1,6 @@
+---
+icon: person-praying
+---
+
+# Подяки
+

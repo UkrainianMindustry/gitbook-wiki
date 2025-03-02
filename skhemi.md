@@ -1,0 +1,6 @@
+---
+icon: clipboard-list
+---
+
+# Схеми
+
