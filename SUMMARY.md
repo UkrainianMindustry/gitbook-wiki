@@ -7,6 +7,7 @@
 
 * [Вступ](stvorennya-modifikacii/vstup.md)
 * [JSON / HJSON](stvorennya-modifikacii/json-hjson.md)
+* [Спрайтинг](stvorennya-modifikacii/spraiting.md)
 * [Javascript (скриптинг)](stvorennya-modifikacii/javascript-skripting.md)
 * [Java](stvorennya-modifikacii/java.md)
 
