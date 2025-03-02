@@ -1,6 +1,6 @@
 ---
-description: Тут буде тестування можливостей git book
 icon: vial
+description: Тут буде тестування можливостей git book
 ---
 
 # Тестування можливостей GitBook
@@ -103,8 +103,8 @@ console.log("Hello, World"); // це блок коду
 
 посилання на сторінку:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="stvorennya-modifikacii/json-hjson.md" %}
+[json-hjson.md](stvorennya-modifikacii/json-hjson.md)
 {% endcontent-ref %}
 
 
